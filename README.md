@@ -1,3 +1,5 @@
-## A Random Quote Generator
+# A Random Quote Generator
 
-A random quote generator using HTML, CSS, JavaScript and Bootstrap
+## Built with HTML, CSS, JavaScript and Bootstrap
+
+[Click here to preview](https://iamrealecstasy.github.io/bootstrap_random_quote_generator/)
